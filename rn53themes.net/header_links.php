@@ -1,9 +1,10 @@
-<title>Lava Material - Web Application and Website Multipurpose Admin Panel Template</title>
+<title>A to Z Furnishings - Admin Panel Template</title>
     <!--== META TAGS ==-->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!--== FAV ICON ==-->
     <link rel="shortcut icon" href="images/fav.ico">
+    
 
     <!-- GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600|Quicksand:300,400,500" rel="stylesheet">
