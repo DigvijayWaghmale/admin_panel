@@ -28,8 +28,8 @@
                         </li>
                         <li class="active-bre"><a href="#"> Dashboard</a>
                         </li>
-                        <li class="page-back"><a href="index.php"><i class="fa fa-backward" aria-hidden="true"></i> Back</a>
-                        </li>
+                        <!-- <li class="page-back"><a href="index.php"><i class="fa fa-backward" aria-hidden="true"></i> Back</a>
+                        </li> -->
                     </ul>
                 </div>
                 <!--== DASHBOARD INFO ==-->
@@ -83,7 +83,7 @@
                                 <div class="inn-title">
                                     <h4>Country Campaigns</h4>
                                     <p>Airtport Hotels The Right Way To Start A Short Break Holiday</p>
-                                    <a class='dropdown-button drop-down-meta' href='#' data-activates='dropdown1'><i class="material-icons">more_vert</i></a>
+                                    <!-- <a class='dropdown-button drop-down-meta' href='#' data-activates='dropdown1'><i class="material-icons">more_vert</i></a> -->
                                     <!-- Dropdown Structure -->
                                     <ul id='dropdown1' class='dropdown-content'>
                                         <li><a href="#!">Add New</a>
@@ -192,7 +192,7 @@
                                 <div class="inn-title">
                                     <h4>Country Campaigns</h4>
                                     <p>Airtport Hotels The Right Way To Start A Short Break Holiday</p>
-                                    <a class='dropdown-button drop-down-meta' href='#' data-activates='dropdown2'><i class="material-icons">more_vert</i></a>
+                                    <!-- <a class='dropdown-button drop-down-meta' href='#' data-activates='dropdown2'><i class="material-icons">more_vert</i></a> -->
                                     <!-- Dropdown Structure -->
                                     <ul id='dropdown2' class='dropdown-content'>
                                         <li><a href="#!">Add New</a>
@@ -457,7 +457,7 @@
                 <div class="sb2-2-3">
                     <div class="row">
                         <!--== Listing Enquiry ==-->
-                        <div class="col-md-6">
+                        <!-- <div class="col-md-6">
                             <div class="box-inn-sp">
                                 <div class="inn-title">
                                     <h4>Listing Enquiry</h4>
@@ -478,7 +478,7 @@
                                         <li><a href="#!"><i class="material-icons">play_for_work</i>Download</a>
                                         </li>
                                     </ul>
-                                    <!-- Dropdown Structure -->
+                                    
 
                                 </div>
                                 <div class="tab-inn">
@@ -575,10 +575,10 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!--== Hotel Bookings ==-->
-                        <div class="col-md-6">
+                        <!-- <div class="col-md-6">
                             <div class="box-inn-sp">
                                 <div class="inn-title">
                                     <h4>Hotel Bookings</h4>
@@ -599,7 +599,7 @@
                                         <li><a href="#!"><i class="material-icons">play_for_work</i>Download</a>
                                         </li>
                                     </ul>
-                                    <!-- Dropdown Structure -->
+                                    
 
                                 </div>
                                 <div class="tab-inn">
@@ -696,7 +696,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
 

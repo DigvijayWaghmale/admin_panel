@@ -18,13 +18,13 @@
             <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-list-ul" aria-hidden="true"></i> Listing</a>
                 <div class="collapsible-body left-sub-menu">
                     <ul>
-                        <li><a href="listing-all.php" target="_blank">All listing</a>
+                        <li><a href="listing-all.php" >All listing</a>
                         </li>
-                        <li><a href="listing-add.php" target="_blank">Add New listing</a>
+                        <li><a href="listing-add.php" >Add New listing</a>
                         </li>
-                        <li><a href="listing-cat-all.php" target="_blank">All listing Categories</a>
+                        <li><a href="listing-cat-all.php" >All listing Categories</a>
                         </li>
-                        <li><a href="listing-cat-add.php" target="_blank">Add listing Categories</a>
+                        <!-- <li><a href="listing-cat-add.php" >Add listing Categories</a> -->
                         </li>
                     </ul>
                 </div>
@@ -34,7 +34,7 @@
                     <ul>
                         <!-- <li><a href="user-all.php">All Users</a>
                         </li> -->
-                        <li><a href="user-add.php"  target="_blank">Add New user</a>
+                        <li><a href="user-add.php" >Add New user</a>
                         </li>
                     </ul>
                 </div>
@@ -130,7 +130,7 @@
             <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-ticket" aria-hidden="true"></i> Booking & Enquiry</a>
                 <div class="collapsible-body left-sub-menu">
                     <ul>
-                        <li><a href="hotel-booking-all.php" target="_blank">Hotel</a>
+                        <li><a href="hotel-booking-all.php" >Hotel</a>
                         </li>
                         <!-- <li><a href="package-booking-all.php">Package</a>
                         </li>
@@ -141,7 +141,7 @@
                     </ul>
                 </div>
             </li>
-            <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-rss" aria-hidden="true"></i> Blog & Articals</a>
+            <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-rss" aria-hidden="true"></i> Blog & Articals</a>
                 <div class="collapsible-body left-sub-menu">
                     <ul>
                         <li><a href="blog-all.php" target="_blank">All Blogs</a>
@@ -150,11 +150,11 @@
                         </li> -->
                     </ul>
                 </div>
+            </li> -->
+            <!-- <li><a href="social-media.php"><i class="fa fa-plus-square-o" aria-hidden="true""></i> Social Media</a>
             </li>
-            <li><a href="social-media.php"><i class="fa fa-plus-square-o" aria-hidden="true""></i> Social Media</a>
-            </li>
-            <li><a href="login.php" target="_blank"><i class="fa fa-sign-in" aria-hidden="true"></i> Login</a>
-            </li>
+            <li><a href=" login.php" target="_blank"><i class="fa fa-sign-in" aria-hidden="true"></i> Login</a>
+            </li> -->
         </ul>
     </div>
 </div>

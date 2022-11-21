@@ -1,0 +1,31 @@
+.navlist1{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+    gap: 25px;
+    text-align: center;
+    align-content: center;
+    list-style: none;
+    
+    
+}
+
+.navlist1 a{
+    color: black;
+    /* font-size: 1rem; */
+    font-weight: 600;
+    padding: 55px;
+    transition: all 0.3s ease;
+    letter-spacing: 1.5px;
+    /* line-height: 50px; */
+
+
+}
+
+.navlist1 a:hover{
+    color: rgb(255, 0, 200);
+}
+
+

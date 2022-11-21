@@ -13,6 +13,12 @@
                     <input type="text" placeholder="Search..." class="form-control">
                     <a href="#"><i class="fa fa-search"></i></a>
                 </form> -->
+                <ul class="navlist1">
+                   <li><a href="index.php">DASHBOARD</a></li> 
+                   <li><a href="javascript:void(0)" class="collapsible-header">LISTING</a></li> 
+                   <li><a href="javascript:void(0)">USERS</a></li> 
+                   <li><a href="javascript:void(0)">BOOKING AND ENQUIRY</a></li> 
+                </ul>
             </div>
             <!--== NOTIFICATION ==-->
             <div class="col-md-2 tab-hide">
@@ -44,8 +50,8 @@
                     </li> -->
                     <li><a href="user-add.php" class="waves-effect"><i class="fa fa-user-plus" aria-hidden="true"></i> Add New User</a>
                     </li>
-                    <li><a href="#" class="waves-effect"><i class="fa fa-undo" aria-hidden="true"></i> Backup Data</a>
-                    </li>
+                    <!-- <li><a href="#" class="waves-effect"><i class="fa fa-undo" aria-hidden="true"></i> Backup Data</a>
+                    </li> -->
                     <li class="divider"></li>
                     <li><a href="#" class="ho-dr-con-last waves-effect"><i class="fa fa-sign-in" aria-hidden="true"></i> Logout</a>
                     </li>
