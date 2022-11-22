@@ -8,7 +8,7 @@
             </a>
         </div>
         <!--== SEARCH ==-->
-        <div class="col-md-6 col-sm-6 mob-hide">
+        <div class="col-md-6 col-sm-6 mob-hidess">
             <!-- <form class="app-search">
                     <input type="text" placeholder="Search..." class="form-control">
                     <a href="#"><i class="fa fa-search"></i></a>
@@ -17,7 +17,7 @@
                 <li><a href="index.php" class="collapsible-header">DASHBOARD</a></li>
                 <a class='waves-effect dropdown-button ' href='#' data-activates='top-menu1'>LISTING</i>
                 </a>
-                <ul id='top-menu1' class='dropdown-content top-menu-sty'>
+                <ul id='top-menu1' class='dropdown-content top-menu-sty' style="margin-top:42px;">
                     <li><a href="listing-all.php" class="waves-effect"></i>ALL LISTING</a>
                     </li>
                     <li class="divider"></li>
@@ -29,7 +29,7 @@
 
                 <a class='waves-effect dropdown-button ' href='#' data-activates='top-menu2'>USERS</i>
                 </a>
-                <ul id='top-menu2' class='dropdown-content top-menu-sty'>
+                <ul id='top-menu2' class='dropdown-content top-menu-sty' style="margin-top:42px;">
                     <li><a href="user-add.php" class="waves-effect"></i>ADD NEW USER</a>
                     </li>
 
@@ -38,7 +38,7 @@
                 
                 <a class='waves-effect dropdown-button ' href='#' data-activates='top-menu3'>BOOKING AND ENQUIRY</i>
                 </a>
-                <ul id='top-menu3' class='dropdown-content top-menu-sty'>
+                <ul id='top-menu3' class='dropdown-content top-menu-sty' style="margin-top:42px;">
                     <li><a href="hotel-booking-all.php" class="waves-effect"></i>HOTEL BOOKING LIST</a>
                     </li>
 
@@ -62,7 +62,7 @@
             </a>
 
             <!-- Dropdown Structure -->
-            <ul id='top-menu' class='dropdown-content top-menu-sty'>
+            <ul id='top-menu' class='dropdown-content top-menu-sty' style="margin-top:62px;">
                 <!-- <li><a href="setting.php" class="waves-effect"><i class="fa fa-cogs" aria-hidden="true"></i>Admin Setting</a>
                     </li> -->
                 <!-- <li><a href="listing-all.php" class="waves-effect"><i class="fa fa-list-ul" aria-hidden="true"></i> Listings</a>
