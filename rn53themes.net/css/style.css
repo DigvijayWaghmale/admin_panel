@@ -273,9 +273,9 @@ a:hover {
 }
 .sb2-2 {
     float: left;
-    width: 80%;
+    width: 100%;
     padding: 40px;
-    margin-left: 20%;
+    /* margin-left: 20%; */
     background: #e8edf2;
 }
 .sb2-2-1 {
